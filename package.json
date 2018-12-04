@@ -1,0 +1,14 @@
+{
+  "name": "@zerowastemap/leaflet.zoomhome",
+  "version": "1.0.0",
+  "description": "Leaflet.ZoomHome plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Augustin Godiscal <salut@zerowastemap.app>",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.3.4"
+  }
+}
